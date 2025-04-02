@@ -6,4 +6,5 @@
 👉Google cloud starage bucket-д ажиллуулж туршсан 
 
 🖇️https://storage.googleapis.com/website-for-kids/website-for-kids/index.html
+🖇️https://demisplanets.netlify.app/
 
